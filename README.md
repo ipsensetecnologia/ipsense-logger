@@ -10,7 +10,7 @@ This version adds a couple of new methods to bufferize, and flush logs allowing 
 ***This package uses the aws-sdk, and will require an AWS account.*** 
 
 ```bash
-npm install --save dashbot-logger
+npm install --save ipsense-logger
 ```
 
 Pass in your AWS credentials and a region as follows, or configure using one of the options listed 
