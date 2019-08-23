@@ -63,7 +63,7 @@ const configuration = {
   'printErrors': true,
 }
 
-const Logger = require('dashbot-logger')
+const Logger = require('ipsense-logger')
 const logger = new Logger(configuration)
 
 logger.buffer('test1') // add string test1 to log buffer
